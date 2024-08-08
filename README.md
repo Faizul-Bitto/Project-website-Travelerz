@@ -17,4 +17,4 @@ Backend: PHP
 Database: MySQL
 
 
-This repository contains the full source code of the Treavelerz web application, along with necessary configuration files for setting up the project locally.
+This repository contains the full source code of the Treavelerz web application, along with necessary configuration files for setting up the project locally
