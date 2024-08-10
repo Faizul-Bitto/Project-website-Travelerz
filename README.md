@@ -1,5 +1,5 @@
-Treavelerz - Travel Management Web Application
-Treavelerz is a responsive travel management web application designed to help users plan, book, and manage their travel itineraries. This project was built from scratch without the use of any frameworks, focusing on delivering a seamless and intuitive user experience.
+Treavelerz - Travel Management Website
+Treavelerz is a responsive travel management website designed to help users plan, book, and manage their travel itineraries. This project was built from scratch without the use of any frameworks, focusing on delivering a seamless and intuitive user experience.
 
 
 
