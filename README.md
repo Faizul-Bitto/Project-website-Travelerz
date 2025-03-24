@@ -4,9 +4,6 @@
   <strong>Treavelerz</strong> is a fully responsive travel management website designed to help users plan, book, and manage their travel itineraries. Built completely from scratch without any frameworks, it focuses on clean UI, smooth user experience, and functional full-stack implementation.
 </p>
 
-<h2>🚀 Live Demo</h2>
-<p><a href="#" target="_blank">[Live Demo Coming Soon]</a></p>
-
 <h2>📂 Project Structure</h2>
 <p>Here’s an overview of the key files and folders:</p>
 <ul>
