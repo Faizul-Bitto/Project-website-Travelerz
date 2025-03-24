@@ -14,7 +14,7 @@
   <li><code>book.php</code> — Displays booked travel details 📅</li>
   <li><code>book_form.php</code> — Form for submitting new travel bookings 📝</li>
   <li><code>book_db.sql</code> — SQL file to create the database and required tables 🗄️</li>
-  <li><code>home.php</code> — Main homepage showcasing destinations and booking CTA 🏠</li>
+  <li><code>home.php</code> — Main homepage showcasing destinations and booking CTA (Call To Action) 🏠</li>
   <li><code>package.php</code> — Displays available travel packages 🧳</li>
 </ul>
 
