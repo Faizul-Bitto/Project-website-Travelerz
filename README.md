@@ -1,37 +1,44 @@
-<h1>🌍 Treavelerz - Travel Management Website 🧳</h1>
+<h1>🌍 Treavelerz - Travel Management Web Application 🧳</h1>
 
 <p>
-  Welcome to <strong>Treavelerz</strong> — a responsive travel management web application designed to help users plan, book, and manage their trips all in one place. This project was developed entirely <em>from scratch</em> without using any external frameworks, highlighting a pure and practical approach to full-stack development. ✈️
+  <strong>Treavelerz</strong> is a fully responsive travel management website designed to help users plan, book, and manage their travel itineraries. Built completely from scratch without any frameworks, it focuses on clean UI, smooth user experience, and functional full-stack implementation.
 </p>
 
+<h2>🚀 Live Demo</h2>
+<p><a href="#" target="_blank">[Live Demo Coming Soon]</a></p>
+
 <h2>📂 Project Structure</h2>
-<p>Here’s a quick look at what’s inside the project:</p>
+<p>Here’s an overview of the key files and folders:</p>
 <ul>
-  <li><strong>index.html</strong> — Homepage with featured destinations and booking interface 🏖️</li>
-  <li><strong>bookings.php</strong> — Handles user trip bookings 📆</li>
-  <li><strong>itinerary.php</strong> — Displays planned itineraries and trip details 📋</li>
-  <li><strong>assets/css/</strong> — Custom stylesheets for responsive layout and design 🎨</li>
-  <li><strong>assets/js/</strong> — JavaScript for interactivity and DOM manipulation ⚙️</li>
-  <li><strong>config/</strong> — Database connection and config files 🔐</li>
+  <li><code>css/style.css</code> — Custom styles for layout and responsiveness 🎨</li>
+  <li><code>images/</code> — Assets for destinations, banners, and visuals 🖼️</li>
+  <li><code>js/script.js</code> — JavaScript for interactivity and dynamic UI ⚙️</li>
+  <li><code>about.php</code> — About page describing the platform 🌐</li>
+  <li><code>book.php</code> — Displays booked travel details 📅</li>
+  <li><code>book_form.php</code> — Form for submitting new travel bookings 📝</li>
+  <li><code>book_db.sql</code> — SQL file to create the database and required tables 🗄️</li>
+  <li><code>home.php</code> — Main homepage showcasing destinations and booking CTA 🏠</li>
+  <li><code>package.php</code> — Displays available travel packages 🧳</li>
+  <li><code>README.md</code> — Project documentation 📘</li>
 </ul>
 
 <h2>✨ Key Features</h2>
 <ul>
-  <li>✅ <strong>Responsive Design</strong>: Mobile-friendly and optimized for various screen sizes.</li>
-  <li>✅ <strong>Custom-Built</strong>: No external frameworks — just pure HTML, CSS, JavaScript, PHP & MySQL.</li>
-  <li>✅ <strong>Booking System</strong>: Users can plan and book travel effortlessly.</li>
-  <li>✅ <strong>Itinerary Management</strong>: View, track, and manage trips with ease.</li>
+  <li>✅ <strong>Responsive Design</strong> — Works great across desktops, tablets, and phones</li>
+  <li>✅ <strong>Booking Interface</strong> — Users can search and book trips easily</li>
+  <li>✅ <strong>Custom Build</strong> — Developed using core web technologies (no frameworks)</li>
+  <li>✅ <strong>Modular Pages</strong> — Clean separation between views and logic</li>
 </ul>
 
 <h2>💻 Built With</h2>
 <ul>
-  <li><strong>HTML</strong> — Page structure and layout 🏗️</li>
-  <li><strong>CSS</strong> — Styling and responsiveness 🎨</li>
-  <li><strong>JavaScript</strong> — Interactivity and UI behavior 🔧</li>
-  <li><strong>PHP</strong> — Backend logic and dynamic content 💻</li>
-  <li><strong>MySQL</strong> — Database for storing travel data 📊</li>
+  <li><strong>HTML</strong> — For content structure and page layouts 🏗️</li>
+  <li><strong>CSS</strong> — For styling, layout, and responsiveness 🎨</li>
+  <li><strong>JavaScript</strong> — For frontend interactivity and enhancements 🔧</li>
+  <li><strong>PHP</strong> — For server-side scripting and backend logic 💻</li>
+  <li><strong>MySQL</strong> — For storing bookings, users, and packages data 📊</li>
 </ul>
 
 <p>
-  This repository includes the full source code, assets, and configuration files needed to set up and run Treavelerz locally. It's perfect for learning how to structure a real-world project without relying on frameworks.
+  This repository includes everything needed to set up and run the project locally, making it ideal for learning full-stack development without using external libraries or frameworks.
 </p>
