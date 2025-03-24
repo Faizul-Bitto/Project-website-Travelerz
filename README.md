@@ -16,7 +16,6 @@
   <li><code>book_db.sql</code> — SQL file to create the database and required tables 🗄️</li>
   <li><code>home.php</code> — Main homepage showcasing destinations and booking CTA 🏠</li>
   <li><code>package.php</code> — Displays available travel packages 🧳</li>
-  <li><code>README.md</code> — Project documentation 📘</li>
 </ul>
 
 <h2>✨ Key Features</h2>
